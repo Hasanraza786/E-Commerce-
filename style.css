@@ -1,0 +1,47 @@
+img {
+    width: 40px;
+}
+.navbar {
+    background-color: #FFA208 !important;
+}
+.nav-link {
+    color: #ffffff !important;
+}
+.card {
+    display: inline-block !important;
+    margin-top: 20px;
+    margin-left: 100px;
+    border: 2px #FFA208 solid;
+    width: 200px !important;
+    height: 320px !important;
+}
+.categh1 {
+text-align: center;
+color: #FFA208;
+text-shadow: 2px 2px 5px black;
+margin-top: 20px;
+}
+.card-img-top {
+    height: 150px !important;
+}
+.card-title {
+    size: 10px !important;
+    color: #FFA208 !important;
+}
+.card-text {
+    color: #FFA208 !important;
+}
+.btn {
+    background-color: #FFA208 !important;
+    color: white !important;
+}
+.footer {
+    height: 30px;
+    background-color: #FFA208;
+    margin-top: 5px;
+}
+.footh {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
