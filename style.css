@@ -13,7 +13,7 @@ img {
     margin-left: 100px;
     border: 2px #FFA208 solid;
     width: 200px !important;
-    height: 320px !important;
+    height: 290px !important;
 }
 .categh1 {
 text-align: center;
@@ -44,4 +44,32 @@ margin-top: 20px;
     color: white;
     display: flex;
     justify-content: center;
+}
+.slidetext {
+    color: #FFA208;
+}
+.abc {
+    height: 500px !important;
+    width: 100% !important;
+}
+.form-row , .form-group{
+    width: 600px !important;
+}
+.form {
+    margin-left: 350px;
+    margin-top: 20px;
+}
+label{
+    color: #FFA208;
+}
+.card1 {
+    margin-top: 50px;
+    text-align: center;
+    border: 2px solid #FFA208;
+    margin-left: 400px;
+    width: 500px;  
+}
+.card-img-top1{
+    width: 490px;
+    height: 300px !important;
 }
